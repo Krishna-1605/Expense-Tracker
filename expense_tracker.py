@@ -75,4 +75,4 @@ if total_spent > monthly_budget:
 elif total_spent > 0.8 * monthly_budget:
     print("⚠️ WARNING: You have used more than 80% of your budget.")
 else:
-    print("✅ You are within your budget.")
+    print("✅ Great! You are within your budget.")
